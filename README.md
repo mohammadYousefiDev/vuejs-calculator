@@ -2,4 +2,4 @@
 
 simple vuejs calculator (with log)
 
-<a href="https://mohammadyousefi08.github.io/vuejs_calculator/#/">ONLINE DEMO</a>
+<a target="_blank" href="https://mohammadyousefi08.github.io/vuejs_calculator/#/">ONLINE DEMO</a>
